@@ -1,6 +1,8 @@
 # Eden
 
-[Live Demo](https://catgrills.github.io/Omega/) of <i>Eden</i>.
+![screenshot](https://s1.gifyu.com/images/Screenshot-1215.png)
+
+[Live Demo](https://catgrills.github.io/Eden/) of <i>Eden</i>.
 
 About
 -------------------------------
