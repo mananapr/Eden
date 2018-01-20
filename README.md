@@ -2,7 +2,7 @@
 
 ![screenshot](https://s1.gifyu.com/images/Screenshot-1215.png)
 
-[Live Demo](http://mananapr.dynu.net:8000/) of <i>Eden</i>.
+[Live Demo](https://mananapr.github.io/Eden/) of <i>Eden</i>.
 
 About
 -------------------------------
