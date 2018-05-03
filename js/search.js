@@ -49,7 +49,7 @@ function search(query){
 	break;
 
         default:
-            window.location="https://duckduckgo.com/?q=" +
+            window.location="https://searx.me/?q=" +
                 query.replaceChars("", "+");
     }
 }
