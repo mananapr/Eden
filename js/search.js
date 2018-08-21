@@ -49,7 +49,7 @@ function search(query){
 	break;
 
         default:
-            window.location="https://searx.me/?q=" +
+            window.location="https://google.com/search?q=" +
                 query.replaceChars("", "+");
     }
 }
